@@ -8,22 +8,6 @@ function App() {
       <h2> Section - 002</h2>
       <p> WVU ID: 800363370</p>
       <p> Hi I am Bryce Driscoll!</p>
-
-
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
     </div>
   );
 }
